@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<profile xmlns="Profile">
+<name>Alban</name>
+<avatar>image/tux.jpg</avatar>
+<birthday>2006-05-08</birthday>
+<games>
+<game date="2013-12-10">
+<time>20</time>
+<word level="1">cle</word>
+</game>
+<game date="2013-12-11" found="50%">
+<word level="2">indice</word>
+</game>
+<game date="2013-12-11">
+<time>20</time>
+<word level="2">indice</word>
+</game>
+<game date="2019-11-30" found="33%">
+<time>10</time>
+<word level="1">fin</word>
+</game>
+</games>
+</profile>
